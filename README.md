@@ -239,4 +239,4 @@ This repository serves as the official landing page for HitFilm Express. The sof
 **Get the most recent version of HitFilm Express today!**
 
 ---
-**Last updated:** 2026-09-13 07:52:34 UTC
+**Last updated:** 2026-09-13 13:01:26 UTC
